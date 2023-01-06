@@ -1,0 +1,18 @@
+.casete {
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+    gap:50px;
+}
+
+.caseta{
+    padding:10px;
+    height: 400px;
+    width: 400px;
+    border-radius:50px;
+    border:10px;
+}
+
+.price{
+    
+}
